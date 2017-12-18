@@ -1,0 +1,10 @@
+attrs==17.3.0
+clize==4.0.2
+docutils==0.14
+od==1.0
+pyparsing==2.2.0
+python-dateutil==2.6.1
+python-gantt==0.6.0
+sigtools==2.0.1
+six==1.11.0
+svgwrite==1.1.11
