@@ -4,8 +4,8 @@ This project provides a testbed for a number of Python modules found on PyPI whi
 ## Current Modules
 Current modules in use are :
  
- - [easysvg](https://svgwrite.readthedocs.io/en/master/)
- - [svgwrite](https://github.com/stevelittlefish/easysvg)
+ - [easysvg](https://github.com/stevelittlefish/easysvg)
+ - [svgwrite](https://svgwrite.readthedocs.io/en/master/)
 
 ## Environment
 Tested on Python 3.4. On the dev machine the virtenv is called `svgwrite` .
